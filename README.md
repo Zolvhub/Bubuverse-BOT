@@ -1,5 +1,6 @@
 # 🎮 Bubuverse Automation Bot Suite - Premium Version
-<img width="471" height="648" alt="image" src="https://github.com/user-attachments/assets/2d22c30c-ccc8-4fca-8cff-095dd88c82eb" />
+
+<img width="487" height="632" alt="image" src="https://github.com/user-attachments/assets/b4a3f74d-d2c3-4c94-aefb-cd090aa40aa5" />
 
 ## 💰 **PRICE: $7 USD ONLY** 
 
